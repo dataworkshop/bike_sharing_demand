@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+# tempoary
+tmp
+*.csv
 
 # Distribution / packaging
 .Python
